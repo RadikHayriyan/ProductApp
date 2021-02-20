@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Megaphone Optima",
+    "producer": "Russia",
+    "category": "Mobile phones"
+  },
+  {
+    "name": "chinaPhone",
+    "producer": "China",
+    "category": "Mobile phones"
+  },
+  {
+    "name": "usaPhone",
+    "producer": "USA",
+    "category": "Mobile phones"
+  },
+  {
+    "name": "russianLaptop",
+    "producer": "Russia",
+    "category": "Laptops"
+  },
+  {
+    "name": "usaLaptop",
+    "producer": "USA",
+    "category": "Laptops"
+  },
+  {
+    "name": "usaVideoGames",
+    "producer": "USA",
+    "category": "Video Games"
+  },
+  {
+    "name": "chinaVideo",
+    "producer": "China",
+    "category": "Video"
+  },
+  {
+    "name": "russianTv",
+    "producer": "Russia",
+    "category": "TV"
+  },
+  {
+    "name": "usaTv",
+    "producer": "USA",
+    "category": "TV"
+  },
+  {
+    "name": "chinaTv",
+    "producer": "China",
+    "category": "TV"
+  }
+]
